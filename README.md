@@ -1,6 +1,3 @@
-![How to Secure Your Password Banner]
-! [(banner.jpg)]
-
 # 🔐 How to Secure Your Password  
 ### A Modern Guide to Cybersecurity, Passphrases, and Digital Protection  
 
@@ -8,6 +5,8 @@
 
 > Your passwords are the gatekeepers to your digital life.  
 > Treat them like the valuable keys they are… or keep leaving the front door wide open and hoping the internet’s friendly. Spoiler: it’s not.
+
+![How to Secure Your Password Banner](banner.jpg)
 
 ---
 
