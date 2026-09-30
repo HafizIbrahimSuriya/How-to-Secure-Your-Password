@@ -1,4 +1,5 @@
-![How to Secure Your Password Banner](banner.jpg)
+![How to Secure Your Password Banner]
+! [(banner.jpg)]
 
 # 🔐 How to Secure Your Password  
 ### A Modern Guide to Cybersecurity, Passphrases, and Digital Protection  
